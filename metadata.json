@@ -1,0 +1,6 @@
+{
+  "name": "Kakulu Malli",
+  "description": "Premium fresh mushrooms, dehydrated fruits, and snacks from Sri Lanka. Order directly via PickMe Food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
